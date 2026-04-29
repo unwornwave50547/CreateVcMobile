@@ -185,11 +185,11 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
-file = "mods/CreateVC-Core-1.2.1.jar"
+file = "mods/CreateVC-Core-fillinrn.jar"
 hash = "37065c437a8f2a22f00bb9e868aa478e963be5a4ad2dfd43ed5cfbc085bd11eb"
 
 [[files]]
-file = "mods/CreateVC-Updater-1.0.0.jar"
+file = "mods/CreateVC-Updater-mobile.jar"
 hash = "4a14f7975d75f69b43e64faa4572cb86dc6259c0740aee265f7317634f617334"
 
 [[files]]
@@ -314,11 +314,6 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
-file = "mods/controllable.pw.toml"
-hash = "44253d33ea5dc68f091c810ee5b4d7371dccc87c1f390e3a2325105e56bfb8f7"
 metafile = true
 
 [[files]]
@@ -690,16 +685,6 @@ hash = "db40d54d3dc0efa63fbb4783dcf45552c04ff892c9a51a671ed142f7df184941"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
-metafile = true
-
-[[files]]
 file = "mods/etched.pw.toml"
 hash = "f2be475fad96949ff8e26e8a03046b1732935b1dbd9b8824e505e7413ec08622"
 metafile = true
@@ -850,11 +835,6 @@ hash = "a9eb99714c7c18fc6ef04c4f6dae9a1496aa46ee9c3f1f67a79c439b61687e29"
 metafile = true
 
 [[files]]
-file = "mods/mc-vr-api.pw.toml"
-hash = "f0e281e1e2dadfc65e6d8d3189d143120f86ec75a0cb27077e55216847df729b"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
@@ -862,11 +842,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a0ace741bcbe76bfa3c8bfefd042a1aee7583b32039cb48aa381a8ace956a359"
-metafile = true
-
-[[files]]
-file = "mods/modflared.pw.toml"
-hash = "112c4664762b3a07df2c24c7fad06b6cd64f535d82746b2e17eeb4dc1c95fc69"
 metafile = true
 
 [[files]]
@@ -1088,11 +1063,6 @@ hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "4c29cc5413defed719ada54337138d4cbc19e16e5e4d85bc702a66e3f496344a"
-metafile = true
-
-[[files]]
 file = "mods/voiceless-survival.pw.toml"
 hash = "5ca5074d7db18d287f739cc73563362cbbd93b8505726b04ede01b109a1c2d6f"
 metafile = true
@@ -1116,28 +1086,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "mods/zume.pw.toml"
-hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
-metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "fcea8975ad1e22845fb4445d0bced82a052655a3f6dcc859548b14ae7a3e29cf"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.10.3.zip"
-hash = "999fbdfe9cddcbadeaaa02827f0583dc3d38d8f264146301cb88395d18df85a9"
-
-[[files]]
-file = "resourcepacks/MustardTweaks-Bobteh.zip"
-hash = "517c30f37c2db0d8b4f85d49e876288cd0864aefc1ddf157a6d4bc8842120eed"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
-hash = "33153747d25fbee470acb42ccf4f26b03cc551bb900d4c6d3389b5500dd84839"
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.3h.zip"
-hash = "b6d43bfb5ef7c26fe5727722355bf675a26eff0f2f0ffc7ad843fcf01ae80763"
