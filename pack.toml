@@ -11,3 +11,6 @@ hash = "b4720d20b2a5eefcdbdfb51dd394ef725643bb974742ddcd4c867fece685ffd8"
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.228"
+
+[options]
+no-internal-hashes = true
